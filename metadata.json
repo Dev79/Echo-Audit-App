@@ -1,0 +1,5 @@
+{
+  "name": "Echo-Audit",
+  "description": "AI-powered multimodal accessibility inspector that simultaneously analyzes visual UI elements and source code to identify WCAG compliance violations.",
+  "requestFramePermissions": []
+}
